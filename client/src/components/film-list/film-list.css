@@ -1,0 +1,14 @@
+/* .cardList :hover {
+    cursor: pointer;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  } */
+  
+  button:hover {
+	border: 3px solid;
+}
+
+.favor:hover {
+  cursor: pointer;
+}
