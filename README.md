@@ -1,5 +1,5 @@
 # MovieApp-MERN
- creating full stack movie app using MERN stack.
+### creating full stack movie app using MERN stack.(fully responsive)
  
  # First start Server By using Foll instruction
  
