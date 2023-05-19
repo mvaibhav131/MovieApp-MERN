@@ -13,5 +13,5 @@
  ## start the React app using command `npm start`
  ## Then your react app is started in  `localhost:3000`
   
- # DONE YOUR APP IS STARTED !!!!!
+ # CONGRATS YOUR FULLY RESPONSIVE MOVIE-APP IS STARTED !!!!!
  
