@@ -3,7 +3,6 @@ class FilmService {
     _apiKey = '71f6d6491ccd8a70c189ecc6dc85548b';
     _apiBase = 'https://api.themoviedb.org/3/';
     _basePage = 1;
-
     
     // function template to get resource from db
     getResource = async (url) => {
@@ -55,7 +54,6 @@ class FilmService {
             onLike: false
         }
     }
-
     _transcriptFilmId(film) {
         return {
             id: film.id,
@@ -67,5 +65,4 @@ class FilmService {
         }
     }
 }
-
 export default FilmService;
